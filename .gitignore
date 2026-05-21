@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+test_FD*.txt
+train_FD*.txt
+RUL_FD*.txt
