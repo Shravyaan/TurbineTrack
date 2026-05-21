@@ -31,7 +31,7 @@ The data ingestion engine was deliberately stress-tested against highly volatile
 ---
 
 ## 📁 Repository Structure
-
+```text
 ├── app.py                      # Interactive Streamlit Web Application Dashboard
 ├── train_model.py              # Active Production Training Script (Champion RF Core)
 ├── train_model0.py             # Experimental Lab Notebook (Linear, Neural Network history)
